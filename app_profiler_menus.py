@@ -79,9 +79,12 @@ elif menu == "Qualifications":
         - Complex Analysis
         - Advanced Calculus
         - Abstract Algebra
-
-        **Academic Achievement:**
-        - Achieved a 76% average in Computer Applications Technology
+        
+        *National Senior Certificate (NSC) – Hoerskool Empangeni High School, Kwazulu-Natal (2020)*
+        
+        **Achievement/Certification:**
+        - Completed Huawei ICT UFH Micro Certification – Basics of Network Layer Protocols (2025).
+        - Bronze Award – Hoerskool Empangeni High School. Computer Applications and Technology Olympiad (2019 & 2020).
         """)
 
     elif option == "Work Experience":
@@ -109,6 +112,8 @@ elif menu == "Qualifications":
         - Java
         - C++
         - HTML
+        - Numpy
+        - Jupyter
 
         **Software & Tools:**
         - Microsoft Word
